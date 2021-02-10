@@ -84,7 +84,6 @@
 49.172.93.139:Korea Republic of: [ovpn config](vpn/49_172_93_139.ovpn)  
 61.255.40.13:Korea Republic of: [ovpn config](vpn/61_255_40_13.ovpn)  
 61.85.101.236:Korea Republic of: [ovpn config](vpn/61_85_101_236.ovpn)  
-171.97.46.67:Thailand: [ovpn config](vpn/171_97_46_67.ovpn)  
 184.22.218.23:Thailand: [ovpn config](vpn/184_22_218_23.ovpn)  
 184.22.63.211:Thailand: [ovpn config](vpn/184_22_63_211.ovpn)  
 49.228.41.172:Thailand: [ovpn config](vpn/49_228_41_172.ovpn)  

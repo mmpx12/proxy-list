@@ -1,1 +1,1 @@
-Free proxies (and couple of vpn) from various sources update hourly
+Free proxies (few vpns and tor exit nodes) from various sources update hourly.
