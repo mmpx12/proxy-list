@@ -1,7 +1,7 @@
 185.167.95.211:Hungary: [ovpn config](vpn/185_167_95_211.ovpn)  
-203.207.56.118:Indonesia: [ovpn config](vpn/203_207_56_118.ovpn)  
 79.50.238.168:Italy: [ovpn config](vpn/79_50_238_168.ovpn)  
 103.201.129.162:Japan: [ovpn config](vpn/103_201_129_162.ovpn)  
+103.201.129.50:Japan: [ovpn config](vpn/103_201_129_50.ovpn)  
 111.217.125.248:Japan: [ovpn config](vpn/111_217_125_248.ovpn)  
 113.150.139.197:Japan: [ovpn config](vpn/113_150_139_197.ovpn)  
 119.240.84.150:Japan: [ovpn config](vpn/119_240_84_150.ovpn)  
