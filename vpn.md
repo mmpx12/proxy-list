@@ -1,4 +1,5 @@
 49.205.86.213:India: [ovpn config](vpn/49_205_86_213.ovpn)  
+110.132.218.143:Japan: [ovpn config](vpn/110_132_218_143.ovpn)  
 111.96.89.251:Japan: [ovpn config](vpn/111_96_89_251.ovpn)  
 111.97.98.210:Japan: [ovpn config](vpn/111_97_98_210.ovpn)  
 114.187.37.250:Japan: [ovpn config](vpn/114_187_37_250.ovpn)  
@@ -36,7 +37,6 @@
 39.111.176.78:Japan: [ovpn config](vpn/39_111_176_78.ovpn)  
 42.147.31.189:Japan: [ovpn config](vpn/42_147_31_189.ovpn)  
 42.150.192.249:Japan: [ovpn config](vpn/42_150_192_249.ovpn)  
-58.3.212.7:Japan: [ovpn config](vpn/58_3_212_7.ovpn)  
 59.136.57.69:Japan: [ovpn config](vpn/59_136_57_69.ovpn)  
 60.105.174.34:Japan: [ovpn config](vpn/60_105_174_34.ovpn)  
 60.116.6.49:Japan: [ovpn config](vpn/60_116_6_49.ovpn)  
