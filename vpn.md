@@ -1,4 +1,3 @@
-125.63.11.122:Australia: [ovpn config](vpn/125_63_11_122.ovpn)  
 200.181.211.18:Brazil: [ovpn config](vpn/200_181_211_18.ovpn)  
 70.66.213.142:Canada: [ovpn config](vpn/70_66_213_142.ovpn)  
 46.5.229.96:Germany: [ovpn config](vpn/46_5_229_96.ovpn)  
@@ -82,6 +81,7 @@
 61.75.91.133:Korea Republic of: [ovpn config](vpn/61_75_91_133.ovpn)  
 201.171.97.0:Mexico: [ovpn config](vpn/201_171_97_0.ovpn)  
 217.150.73.254:Russian Federation: [ovpn config](vpn/217_150_73_254.ovpn)  
+41.185.22.26:South Africa: [ovpn config](vpn/41_185_22_26.ovpn)  
 182.235.231.66:Taiwan: [ovpn config](vpn/182_235_231_66.ovpn)  
 134.236.42.59:Thailand: [ovpn config](vpn/134_236_42_59.ovpn)  
 184.22.99.147:Thailand: [ovpn config](vpn/184_22_99_147.ovpn)  
