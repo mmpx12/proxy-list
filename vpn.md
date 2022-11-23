@@ -1,6 +1,5 @@
 110.150.45.148:Australia: [ovpn config](vpn/110_150_45_148.ovpn)  
 189.111.217.190:Brazil: [ovpn config](vpn/189_111_217_190.ovpn)  
-203.80.165.214:Cambodia: [ovpn config](vpn/203_80_165_214.ovpn)  
 121.55.214.94:Guam: [ovpn config](vpn/121_55_214_94.ovpn)  
 122.160.167.238:India: [ovpn config](vpn/122_160_167_238.ovpn)  
 106.172.196.118:Japan: [ovpn config](vpn/106_172_196_118.ovpn)  
