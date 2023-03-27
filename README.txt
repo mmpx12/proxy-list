@@ -5,4 +5,4 @@ Use https://github.com/mmpx12/proxy-check for check if proxies are working
 
 ## ips-list.txt
 
-A list of all VPN and Tor nodes IP addresses found.
+A list of all proxies and Tor exit nodes IP addresses found. Does not contain vpn IP addresses.
