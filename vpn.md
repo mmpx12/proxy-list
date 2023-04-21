@@ -1,3 +1,4 @@
+191.180.181.245:Brazil: [ovpn config](vpn/191_180_181_245.ovpn)  
 106.139.130.246:Japan: [ovpn config](vpn/106_139_130_246.ovpn)  
 106.166.178.48:Japan: [ovpn config](vpn/106_166_178_48.ovpn)  
 111.216.88.155:Japan: [ovpn config](vpn/111_216_88_155.ovpn)  
@@ -90,7 +91,6 @@
 49.228.227.92:Thailand: [ovpn config](vpn/49_228_227_92.ovpn)  
 49.228.70.75:Thailand: [ovpn config](vpn/49_228_70_75.ovpn)  
 49.228.96.7:Thailand: [ovpn config](vpn/49_228_96_7.ovpn)  
-140.82.26.30:United States: [ovpn config](vpn/140_82_26_30.ovpn)  
 163.182.174.159:United States: [ovpn config](vpn/163_182_174_159.ovpn)  
 173.198.248.39:United States: [ovpn config](vpn/173_198_248_39.ovpn)  
 67.161.116.157:United States: [ovpn config](vpn/67_161_116_157.ovpn)  
