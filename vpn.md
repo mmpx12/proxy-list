@@ -1,7 +1,7 @@
+157.0.32.253:China: [ovpn config](vpn/157_0_32_253.ovpn)  
 77.247.111.50:Estonia: [ovpn config](vpn/77_247_111_50.ovpn)  
 219.73.47.146:Hong Kong: [ovpn config](vpn/219_73_47_146.ovpn)  
 101.128.218.81:Japan: [ovpn config](vpn/101_128_218_81.ovpn)  
-111.99.214.52:Japan: [ovpn config](vpn/111_99_214_52.ovpn)  
 114.16.157.213:Japan: [ovpn config](vpn/114_16_157_213.ovpn)  
 116.254.37.179:Japan: [ovpn config](vpn/116_254_37_179.ovpn)  
 118.16.24.74:Japan: [ovpn config](vpn/118_16_24_74.ovpn)  
