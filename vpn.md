@@ -70,6 +70,7 @@
 183.104.46.229:Korea Republic of: [ovpn config](vpn/183_104_46_229.ovpn)  
 1.234.95.210:Korea Republic of: [ovpn config](vpn/1_234_95_210.ovpn)  
 1.254.203.132:Korea Republic of: [ovpn config](vpn/1_254_203_132.ovpn)  
+211.225.221.15:Korea Republic of: [ovpn config](vpn/211_225_221_15.ovpn)  
 211.228.47.169:Korea Republic of: [ovpn config](vpn/211_228_47_169.ovpn)  
 211.38.62.77:Korea Republic of: [ovpn config](vpn/211_38_62_77.ovpn)  
 211.51.228.232:Korea Republic of: [ovpn config](vpn/211_51_228_232.ovpn)  
