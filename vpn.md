@@ -1,5 +1,6 @@
 219.100.37.1:Japan: [ovpn config](vpn/219_100_37_1.ovpn)  
 219.100.37.109:Japan: [ovpn config](vpn/219_100_37_109.ovpn)  
+219.100.37.125:Japan: [ovpn config](vpn/219_100_37_125.ovpn)  
 219.100.37.19:Japan: [ovpn config](vpn/219_100_37_19.ovpn)  
+219.100.37.211:Japan: [ovpn config](vpn/219_100_37_211.ovpn)  
 219.100.37.7:Japan: [ovpn config](vpn/219_100_37_7.ovpn)  
-73.219.210.96:United States: [ovpn config](vpn/73_219_210_96.ovpn)  
