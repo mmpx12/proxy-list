@@ -14,7 +14,6 @@
 131.129.77.183:Japan: [ovpn config](vpn/131_129_77_183.ovpn)  
 133.106.33.150:Japan: [ovpn config](vpn/133_106_33_150.ovpn)  
 150.249.143.124:Japan: [ovpn config](vpn/150_249_143_124.ovpn)  
-153.210.36.195:Japan: [ovpn config](vpn/153_210_36_195.ovpn)  
 153.228.42.55:Japan: [ovpn config](vpn/153_228_42_55.ovpn)  
 175.100.255.110:Japan: [ovpn config](vpn/175_100_255_110.ovpn)  
 182.171.245.214:Japan: [ovpn config](vpn/182_171_245_214.ovpn)  
