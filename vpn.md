@@ -1,4 +1,5 @@
 174.5.80.3:Canada: [ovpn config](vpn/174_5_80_3.ovpn)  
+101.1.199.48:Japan: [ovpn config](vpn/101_1_199_48.ovpn)  
 106.156.251.76:Japan: [ovpn config](vpn/106_156_251_76.ovpn)  
 111.67.190.71:Japan: [ovpn config](vpn/111_67_190_71.ovpn)  
 116.222.3.135:Japan: [ovpn config](vpn/116_222_3_135.ovpn)  
@@ -57,7 +58,6 @@
 175.125.170.210:Korea Republic of: [ovpn config](vpn/175_125_170_210.ovpn)  
 183.105.195.27:Korea Republic of: [ovpn config](vpn/183_105_195_27.ovpn)  
 183.105.204.229:Korea Republic of: [ovpn config](vpn/183_105_204_229.ovpn)  
-183.106.213.105:Korea Republic of: [ovpn config](vpn/183_106_213_105.ovpn)  
 1.241.38.172:Korea Republic of: [ovpn config](vpn/1_241_38_172.ovpn)  
 211.213.4.183:Korea Republic of: [ovpn config](vpn/211_213_4_183.ovpn)  
 211.250.29.228:Korea Republic of: [ovpn config](vpn/211_250_29_228.ovpn)  
