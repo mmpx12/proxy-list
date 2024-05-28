@@ -88,7 +88,7 @@
 59.21.150.225:Korea Republic of: [ovpn config](vpn/59_21_150_225.ovpn)  
 59.28.113.24:Korea Republic of: [ovpn config](vpn/59_28_113_24.ovpn)  
 202.184.4.72:Malaysia: [ovpn config](vpn/202_184_4_72.ovpn)  
-46.233.228.13:Russian Federation: [ovpn config](vpn/46_233_228_13.ovpn)  
+185.244.21.131:Russian Federation: [ovpn config](vpn/185_244_21_131.ovpn)  
 184.22.104.160:Thailand: [ovpn config](vpn/184_22_104_160.ovpn)  
 58.8.148.55:Thailand: [ovpn config](vpn/58_8_148_55.ovpn)  
 173.198.248.39:United States: [ovpn config](vpn/173_198_248_39.ovpn)  
