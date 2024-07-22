@@ -57,7 +57,6 @@
 121.152.216.41:Korea Republic of: [ovpn config](vpn/121_152_216_41.ovpn)  
 121.160.180.172:Korea Republic of: [ovpn config](vpn/121_160_180_172.ovpn)  
 122.46.140.163:Korea Republic of: [ovpn config](vpn/122_46_140_163.ovpn)  
-125.177.195.169:Korea Republic of: [ovpn config](vpn/125_177_195_169.ovpn)  
 175.201.138.113:Korea Republic of: [ovpn config](vpn/175_201_138_113.ovpn)  
 183.107.159.136:Korea Republic of: [ovpn config](vpn/183_107_159_136.ovpn)  
 1.248.52.131:Korea Republic of: [ovpn config](vpn/1_248_52_131.ovpn)  
@@ -93,4 +92,5 @@
 107.172.76.139:United States: [ovpn config](vpn/107_172_76_139.ovpn)  
 108.137.72.151:United States: [ovpn config](vpn/108_137_72_151.ovpn)  
 173.198.248.39:United States: [ovpn config](vpn/173_198_248_39.ovpn)  
+195.123.240.66:United States: [ovpn config](vpn/195_123_240_66.ovpn)  
 118.71.138.138:Viet Nam: [ovpn config](vpn/118_71_138_138.ovpn)  
