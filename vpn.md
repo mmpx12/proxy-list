@@ -93,6 +93,6 @@
 159.192.40.114:Thailand: [ovpn config](vpn/159_192_40_114.ovpn)  
 1.4.161.236:Thailand: [ovpn config](vpn/1_4_161_236.ovpn)  
 49.228.50.24:Thailand: [ovpn config](vpn/49_228_50_24.ovpn)  
-104.234.140.45:United States: [ovpn config](vpn/104_234_140_45.ovpn)  
-171.241.35.105:Viet Nam: [ovpn config](vpn/171_241_35_105.ovpn)  
+107.172.76.139:United States: [ovpn config](vpn/107_172_76_139.ovpn)  
+98.246.249.224:United States: [ovpn config](vpn/98_246_249_224.ovpn)  
 42.113.53.132:Viet Nam: [ovpn config](vpn/42_113_53_132.ovpn)  
