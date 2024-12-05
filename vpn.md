@@ -1,5 +1,4 @@
 46.53.248.93:Belarus: [ovpn config](vpn/46_53_248_93.ovpn)  
-51.89.240.15:France: [ovpn config](vpn/51_89_240_15.ovpn)  
 219.73.48.197:Hong Kong: [ovpn config](vpn/219_73_48_197.ovpn)  
 106.157.175.170:Japan: [ovpn config](vpn/106_157_175_170.ovpn)  
 106.166.160.23:Japan: [ovpn config](vpn/106_166_160_23.ovpn)  
@@ -70,6 +69,7 @@
 211.217.175.221:Korea Republic of: [ovpn config](vpn/211_217_175_221.ovpn)  
 211.58.150.228:Korea Republic of: [ovpn config](vpn/211_58_150_228.ovpn)  
 218.158.51.10:Korea Republic of: [ovpn config](vpn/218_158_51_10.ovpn)  
+218.159.37.184:Korea Republic of: [ovpn config](vpn/218_159_37_184.ovpn)  
 220.120.144.186:Korea Republic of: [ovpn config](vpn/220_120_144_186.ovpn)  
 220.124.76.242:Korea Republic of: [ovpn config](vpn/220_124_76_242.ovpn)  
 220.67.72.196:Korea Republic of: [ovpn config](vpn/220_67_72_196.ovpn)  
