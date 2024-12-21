@@ -40,7 +40,7 @@
 60.132.75.197:Japan: [ovpn config](vpn/60_132_75_197.ovpn)  
 60.140.173.209:Japan: [ovpn config](vpn/60_140_173_209.ovpn)  
 60.154.124.231:Japan: [ovpn config](vpn/60_154_124_231.ovpn)  
-60.38.62.186:Japan: [ovpn config](vpn/60_38_62_186.ovpn)  
+110.10.74.139:Korea Republic of: [ovpn config](vpn/110_10_74_139.ovpn)  
 110.14.252.60:Korea Republic of: [ovpn config](vpn/110_14_252_60.ovpn)  
 110.35.186.205:Korea Republic of: [ovpn config](vpn/110_35_186_205.ovpn)  
 112.151.99.87:Korea Republic of: [ovpn config](vpn/112_151_99_87.ovpn)  
