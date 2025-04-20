@@ -1,3 +1,4 @@
+1.159.110.161:Australia: [ovpn config](vpn/1_159_110_161.ovpn)  
 112.71.250.211:Japan: [ovpn config](vpn/112_71_250_211.ovpn)  
 113.32.25.22:Japan: [ovpn config](vpn/113_32_25_22.ovpn)  
 116.65.223.137:Japan: [ovpn config](vpn/116_65_223_137.ovpn)  
@@ -90,7 +91,6 @@
 37.113.154.55:Russian Federation: [ovpn config](vpn/37_113_154_55.ovpn)  
 184.22.235.78:Thailand: [ovpn config](vpn/184_22_235_78.ovpn)  
 49.228.100.68:Thailand: [ovpn config](vpn/49_228_100_68.ovpn)  
-49.228.246.15:Thailand: [ovpn config](vpn/49_228_246_15.ovpn)  
 49.228.246.82:Thailand: [ovpn config](vpn/49_228_246_82.ovpn)  
 104.245.106.151:United States: [ovpn config](vpn/104_245_106_151.ovpn)  
 40.233.29.162:United States: [ovpn config](vpn/40_233_29_162.ovpn)  
