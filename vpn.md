@@ -84,7 +84,6 @@
 212.164.65.64:Russian Federation: [ovpn config](vpn/212_164_65_64.ovpn)  
 31.192.152.89:Russian Federation: [ovpn config](vpn/31_192_152_89.ovpn)  
 31.200.224.17:Russian Federation: [ovpn config](vpn/31_200_224_17.ovpn)  
-46.241.94.70:Russian Federation: [ovpn config](vpn/46_241_94_70.ovpn)  
 5.137.61.26:Russian Federation: [ovpn config](vpn/5_137_61_26.ovpn)  
 184.22.221.226:Thailand: [ovpn config](vpn/184_22_221_226.ovpn)  
 195.18.14.145:Ukraine: [ovpn config](vpn/195_18_14_145.ovpn)  
