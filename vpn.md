@@ -22,6 +22,7 @@
 153.151.190.204:Japan: [ovpn config](vpn/153_151_190_204.ovpn)  
 153.161.234.92:Japan: [ovpn config](vpn/153_161_234_92.ovpn)  
 157.120.13.45:Japan: [ovpn config](vpn/157_120_13_45.ovpn)  
+175.108.193.2:Japan: [ovpn config](vpn/175_108_193_2.ovpn)  
 175.134.212.101:Japan: [ovpn config](vpn/175_134_212_101.ovpn)  
 180.5.86.99:Japan: [ovpn config](vpn/180_5_86_99.ovpn)  
 219.100.37.104:Japan: [ovpn config](vpn/219_100_37_104.ovpn)  
@@ -92,4 +93,3 @@
 1.55.239.76:Viet Nam: [ovpn config](vpn/1_55_239_76.ovpn)  
 42.119.196.213:Viet Nam: [ovpn config](vpn/42_119_196_213.ovpn)  
 58.186.22.180:Viet Nam: [ovpn config](vpn/58_186_22_180.ovpn)  
-58.186.45.93:Viet Nam: [ovpn config](vpn/58_186_45_93.ovpn)  
