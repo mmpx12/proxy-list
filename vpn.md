@@ -4,7 +4,6 @@
 203.144.77.147:Cambodia: [ovpn config](vpn/203_144_77_147.ovpn)  
 106.146.236.224:Japan: [ovpn config](vpn/106_146_236_224.ovpn)  
 106.150.12.252:Japan: [ovpn config](vpn/106_150_12_252.ovpn)  
-106.159.116.186:Japan: [ovpn config](vpn/106_159_116_186.ovpn)  
 111.217.204.169:Japan: [ovpn config](vpn/111_217_204_169.ovpn)  
 111.96.126.247:Japan: [ovpn config](vpn/111_96_126_247.ovpn)  
 114.16.18.46:Japan: [ovpn config](vpn/114_16_18_46.ovpn)  
